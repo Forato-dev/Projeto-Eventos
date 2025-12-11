@@ -372,6 +372,17 @@
         display: none;
     }
 
+    #sub-box1 {
+        margin-top: 100px;
+        border: 1px solid;
+        display: flex;
+       justify-content: center;
+    }
+
+    #minibox1 {
+        display: none;
+    }
+
     #sub-box2 {
         display: none;
     }
