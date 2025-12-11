@@ -367,4 +367,16 @@
     text-decoration: none;
 }
 
+@media screen and (max-width: 768px) {
+    #cases, #planos {
+        display: none;
+    }
 
+    #sub-box2 {
+        display: none;
+    }
+
+    #imagem {
+        display: none;
+    }
+}
